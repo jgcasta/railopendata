@@ -6,5 +6,5 @@ El conjunto de datos que se ofrece en formato geoJSON, no es oficial de ADIF, y 
 Los ficheros que se ofrecen en este momento son:
 
 * estaciones.json Continen el nombre y la posición de las estaciones y bifurcaciones de la red
-* lineas.json     Contiene el nombre y las geometrías de las líneas contenidas en la Declaración de Red
+* lineas.json     Contiene el nombre y las geometrías de las líneas contenidas en la [Declaración de Red de ADIF](http://www.adif.es/es_ES/conoceradif/doc/CA_DRed_Completo.pdf)
 
