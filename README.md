@@ -1,5 +1,5 @@
-Conjuto de datos de ferrocarriles
-=================================
+Conjunto de datos de ferrocarriles
+==================================
 
 El conjunto de datos que se ofrece en formato geoJSON, no es oficial de ADIF, y por lo tanto no cuenta con ninguna garantía por su parte. En cualquier caso intentaré que esté lo más actualizado posible.
 
