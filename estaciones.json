@@ -18,20 +18,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM 59.560"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.21839658583821,37.1363549964332]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM 86.520"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.98196925595883,37.2325040465251]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "CENTRO TRATAMIENTO TECNICO VALENCIA FUENTE S. LUIS"
          },
      "geometry" : {"type":"Point","coordinates":[-0.375689239715028,39.4415564955873]}
@@ -98,13 +84,6 @@
      	"nombre": "SETENIL"
          },
      "geometry" : {"type":"Point","coordinates":[-5.12111402229156,36.8624474515]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 41,7 ( ATALAYA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.08291533853212,36.9416073769061]}
     },
     {
      "type": "Feature",
@@ -277,23 +256,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 51,878"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.91446710099446,40.8510391254755]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "SEGOVIA-GUIOMAR"
          },
      "geometry" : {"type":"Point","coordinates":[-4.09486770240385,40.9101849914618]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "PK KM. 126,7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.6155909768082,41.230781224798]}
     },
     {
      "type": "Feature",
@@ -308,13 +273,6 @@
      	"nombre": "GUADALAJARA-YEBES"
          },
      "geometry" : {"type":"Point","coordinates":[-3.12650137024645,40.5865201813838]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "PK KM. 174,7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.14736195959646,41.2034199960755]}
     },
     {
      "type": "Feature",
@@ -364,13 +322,6 @@
      	"nombre": "CAMPO DE SAN PEDRO"
          },
      "geometry" : {"type":"Point","coordinates":[-3.54335268984898,41.4296699931129]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 3,237"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.69627945669239,40.4271744324743]}
     },
     {
      "type": "Feature",
@@ -518,13 +469,6 @@
      	"nombre": "P. T . ZARAGOZA NORTE"
          },
      "geometry" : {"type":"Point","coordinates":[-0.84066514670749,41.6109525267878]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 399.3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.52056978204494,38.2724777382045]}
     },
     {
      "type": "Feature",
@@ -700,13 +644,6 @@
      	"nombre": "SAN MAMES (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-2.9487925907278,43.2614900747168]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 70,136"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.39102292815794,42.7823412675532]}
     },
     {
      "type": "Feature",
@@ -952,13 +889,6 @@
      	"nombre": "GRANOLLERS CONTENEDORES"
          },
      "geometry" : {"type":"Point","coordinates":[2.29159828343442,41.5975087897666]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 305,022 ( ELS COMDALS )"
-         },
-     "geometry" : {"type":"Point","coordinates":[1.84387616172268,41.69860190216]}
     },
     {
      "type": "Feature",
@@ -1449,13 +1379,6 @@
      	"nombre": "VEGA-MAGAZ"
          },
      "geometry" : {"type":"Point","coordinates":[-6.06801264539954,42.55316299996]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 18.7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.85766531650485,41.6271707713923]}
     },
     {
      "type": "Feature",
@@ -2349,13 +2272,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 428,5 (FRONTERA)"
-         },
-     "geometry" : {"type":"Point","coordinates":[-7.30722009927849,39.4654771581783]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "CARMONITA (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-6.36662076976286,39.1560316224967]}
@@ -2608,13 +2524,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 72,3 ( CAMPO REAL )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.7093160447018,37.401573037939]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "ALORA"
          },
      "geometry" : {"type":"Point","coordinates":[-4.69965487595626,36.8198149157045]}
@@ -2853,13 +2762,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 40.0 (VALSEQUILLO)"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.34852456603176,38.4131863683438]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "LA MAROTA"
          },
      "geometry" : {"type":"Point","coordinates":[-4.99946426108734,37.7911891661208]}
@@ -2982,13 +2884,6 @@
      	"nombre": "GOMEZNARRO"
          },
      "geometry" : {"type":"Point","coordinates":[-4.85103392337126,41.2444737772931]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 18.6"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.45847329102975,41.2621368002585]}
     },
     {
      "type": "Feature",
@@ -3595,13 +3490,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 36,0 ( GARCIEZ Y JIMENA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.46139800182222,37.925864410815]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "SANTA FE Y ALHAMA"
          },
      "geometry" : {"type":"Point","coordinates":[-2.52687524791112,36.9722774176926]}
@@ -3700,20 +3588,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 83.3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.5344836072287,41.6906520919464]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 8.4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.39495139839895,41.7845987446253]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "ARANCON"
          },
      "geometry" : {"type":"Point","coordinates":[-2.28670771444904,41.7930225658745]}
@@ -3745,13 +3619,6 @@
      	"nombre": "AGREDA"
          },
      "geometry" : {"type":"Point","coordinates":[-1.93241915254413,41.8475534520768]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 85.0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.81560342965088,42.049571227219]}
     },
     {
      "type": "Feature",
@@ -3959,13 +3826,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 110.4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.55969451048698,39.9681526180698]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "CALERA-CHOZAS(APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-4.96288259571484,39.8918205476449]}
@@ -4085,13 +3945,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 40,0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.682674613937624,41.9816877948192]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "HUESCA - CAMBIADOR DE ANCHO"
          },
      "geometry" : {"type":"Point","coordinates":[-0.411571460003606,42.1267792937931]}
@@ -4109,13 +3962,6 @@
      	"nombre": "VILADECANS (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[2.02741024560171,41.3094337079227]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 8.4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.50949385328313,41.1905676655631]}
     },
     {
      "type": "Feature",
@@ -4631,20 +4477,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 139,2 ( VILLARGORDO )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.78409676781618,37.9135935491943]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 130,0 ( GRAÑENA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.76533858158459,37.8388425546682]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "TORREBLASCOPEDRO (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-3.61962612427903,37.9971435029175]}
@@ -4837,13 +4669,6 @@
      	"nombre": "LA GARROVILLA"
          },
      "geometry" : {"type":"Point","coordinates":[-6.47406030886681,38.9157000259085]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 471,5 ( TORREMAYOR )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.53877624253842,38.9131084489691]}
     },
     {
      "type": "Feature",
@@ -5397,13 +5222,6 @@
      	"nombre": "CUTAMILLA"
          },
      "geometry" : {"type":"Point","coordinates":[-2.71416422833076,41.008833652809]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 175.0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.34029445072611,41.1964254567918]}
     },
     {
      "type": "Feature",
@@ -6248,13 +6066,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 99,2 ( HUELMA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.2953186160191,37.6195200662771]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "MOREDA"
          },
      "geometry" : {"type":"Point","coordinates":[-3.3105336919581,37.4311386095506]}
@@ -6286,13 +6097,6 @@
      	"nombre": "ALAMEDA"
          },
      "geometry" : {"type":"Point","coordinates":[-3.78071301146983,42.3483607593636]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 440,0 ( DON ALVARO )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.2659763414326,38.8385916683952]}
     },
     {
      "type": "Feature",
@@ -6384,13 +6188,6 @@
      	"nombre": "ESPINARDO"
          },
      "geometry" : {"type":"Point","coordinates":[-1.13131741586404,37.9930499352201]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 87.9"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.10383125467626,40.8955220352011]}
     },
     {
      "type": "Feature",
@@ -6521,23 +6318,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 86,7 ( USAGRE-BIENVENIDA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.18661087015953,38.3340686413244]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "GUAREÑA"
          },
      "geometry" : {"type":"Point","coordinates":[-6.12894973348428,38.8968744069514]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 436,6 ( ZARZA DE ALANJE )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.23005291639671,38.8361426924665]}
     },
     {
      "type": "Feature",
@@ -6727,13 +6510,6 @@
      	"nombre": "VENTA LA INES"
          },
      "geometry" : {"type":"Point","coordinates":[-4.42820074890529,38.5685530874818]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 17,5 ( TORREMEJIA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.37002502082229,38.7897254377191]}
     },
     {
      "type": "Feature",
@@ -6997,13 +6773,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "PK KM. 482,6"
-         },
-     "geometry" : {"type":"Point","coordinates":[1.00275489432208,41.4133556552003]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BIF. TUDELA-VEGUIN"
          },
      "geometry" : {"type":"Point","coordinates":[-5.83569311847322,43.2989960386366]}
@@ -7137,13 +6906,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 78,5 ( LA NAVA DE HUELVA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.75348103817219,37.9939375558957]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BIF. SAN JERONIMO"
          },
      "geometry" : {"type":"Point","coordinates":[-5.97052152583164,37.4401402602531]}
@@ -7231,13 +6993,6 @@
      	"nombre": "VACARISSES-TORREBLANCA (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[1.91701508477033,41.5869623061195]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 324,800 ( OLESA DE MONTSERRAT )"
-         },
-     "geometry" : {"type":"Point","coordinates":[1.92295763147856,41.5655130974069]}
     },
     {
      "type": "Feature",
@@ -7459,13 +7214,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 21,4 ( BARTOLOME V S.A.)"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.24302595445914,41.559145778848]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BIF. RIO SAR"
          },
      "geometry" : {"type":"Point","coordinates":[-8.55130722085614,42.8569643126473]}
@@ -7543,13 +7291,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 517,6 (FRONTERA)"
-         },
-     "geometry" : {"type":"Point","coordinates":[-7.03015045307215,38.9202438559745]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "SAN JERONIMO (CGD)"
          },
      "geometry" : {"type":"Point","coordinates":[-5.98687353273631,37.4173531589487]}
@@ -7581,13 +7322,6 @@
      	"nombre": "VADOLLANO"
          },
      "geometry" : {"type":"Point","coordinates":[-3.55790356041128,38.1356369175496]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 23,5 ( LA PEÑA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.49182055222308,37.0576287288906]}
     },
     {
      "type": "Feature",
@@ -7735,13 +7469,6 @@
      	"nombre": "FLAÇA"
          },
      "geometry" : {"type":"Point","coordinates":[2.95739196037211,42.047432134733]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM.  386.7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.476701632149085,41.3982533550473]}
     },
     {
      "type": "Feature",
@@ -7928,13 +7655,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 2,965"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.60958622889632,40.4820029822114]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "SANTA CRUZ DE MUDELA"
          },
      "geometry" : {"type":"Point","coordinates":[-3.45152386324575,38.644624531761]}
@@ -8057,20 +7777,6 @@
      	"nombre": "LA JOYOSA-TORRES (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-1.07267913907767,41.7506242805417]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 53,8 ( VALDUERNA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.38141644931267,39.3777186577669]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 15,5 ( EL CARRASCALEJO )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.37960587532412,39.0587510129019]}
     },
     {
      "type": "Feature",
@@ -8386,13 +8092,6 @@
      	"nombre": "TARAZONA"
          },
      "geometry" : {"type":"Point","coordinates":[-2.01155195398381,39.2757009015224]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 269,030 ( PLATJA DE GARBET )"
-         },
-     "geometry" : {"type":"Point","coordinates":[3.15131873708347,42.3907742128241]}
     },
     {
      "type": "Feature",
@@ -9174,13 +8873,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 426,7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.26513247848673,38.1791341058302]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "ARCHENA-FORTUNA (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-1.23602280750513,38.1313319432751]}
@@ -9293,13 +8985,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 338,940 ( CASTELLARNAU )"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.07545342700703,41.5639476836275]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "MAGAZ"
          },
      "geometry" : {"type":"Point","coordinates":[-4.43213542555696,41.9765747492222]}
@@ -9324,13 +9009,6 @@
      	"nombre": "BURGOS-ROSA DE LIMA"
          },
      "geometry" : {"type":"Point","coordinates":[-3.66621432588163,42.3709155441078]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM 671,9"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.10820888138319,41.3371346094647]}
     },
     {
      "type": "Feature",
@@ -9538,13 +9216,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "PK KM. 53,8"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.21343241380819,40.5177976739248]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "GARGANTA DE LOS MONTES (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-3.69284693756427,40.9226031987927]}
@@ -9692,13 +9363,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 604,166"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.02449924793245,41.3824865530524]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BEJAR"
          },
      "geometry" : {"type":"Point","coordinates":[-5.78012981550908,40.3845615818946]}
@@ -9772,13 +9436,6 @@
      	"nombre": "LANDABEN"
          },
      "geometry" : {"type":"Point","coordinates":[-1.69812651951229,42.8099560114289]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 95,2"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.58881190604317,42.4624419397071]}
     },
     {
      "type": "Feature",
@@ -9937,13 +9594,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 253.5"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.63019970962959,42.551203767652]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "VILLABONA-TABLADIELLO (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-5.80004898142582,43.4741446955734]}
@@ -9975,13 +9625,6 @@
      	"nombre": "MONZON DE CAMPOS"
          },
      "geometry" : {"type":"Point","coordinates":[-4.50168117108212,42.1055553627962]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 5.3 (FRONTERA)"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.64892643678458,42.0379582117491]}
     },
     {
      "type": "Feature",
@@ -10504,23 +10147,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 10,865 (AIGÜES DE RIBES )"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.16119253681236,42.2768390573976]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "LA MOLINA"
          },
      "geometry" : {"type":"Point","coordinates":[1.95597896117526,42.3445758091176]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 44,690 ( QUEIXANS )"
-         },
-     "geometry" : {"type":"Point","coordinates":[1.91480842086239,42.3976500744639]}
     },
     {
      "type": "Feature",
@@ -10700,13 +10329,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 82.1"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.13270252032238,40.8604124485738]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "AGUJA DE ENLACE"
          },
      "geometry" : {"type":"Point","coordinates":[-2.93133806997481,43.2514014859076]}
@@ -10759,13 +10381,6 @@
      	"nombre": "CAUDETE"
          },
      "geometry" : {"type":"Point","coordinates":[-0.959745516496472,38.7161293165008]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 402,9 ( COLONIA DE SANTA EULALIA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.84324846345556,38.5729727508927]}
     },
     {
      "type": "Feature",
@@ -11099,13 +10714,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 86,7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.58767071105308,42.8617588707274]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "VILLAR DE LOS ALAMOS"
          },
      "geometry" : {"type":"Point","coordinates":[-6.00772590091474,40.868954045357]}
@@ -11197,13 +10805,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 300,3 ( CABRERIZAS )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.54460598826905,38.1797973026155]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "TOCINA (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-5.73138801991268,37.6103403296686]}
@@ -11225,13 +10826,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 309.2"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.07437110456811,38.7147668144911]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "CASTUERA"
          },
      "geometry" : {"type":"Point","coordinates":[-5.54180377138559,38.7349604700428]}
@@ -11242,13 +10836,6 @@
      	"nombre": "CAMPANARIO"
          },
      "geometry" : {"type":"Point","coordinates":[-5.64181744664694,38.8540906786268]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 385,1 ( MAGACELA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.72250031988405,38.9162296606537]}
     },
     {
      "type": "Feature",
@@ -11389,13 +10976,6 @@
      	"nombre": "MONTEARAGON"
          },
      "geometry" : {"type":"Point","coordinates":[-4.64652029635003,39.9608662280045]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 2,8"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.67588881034072,40.3871110349423]}
     },
     {
      "type": "Feature",
@@ -11701,13 +11281,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 81,8 ( LAS MALLAS )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.69189235800989,37.3557575663831]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BELMONTE (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-6.94754973401881,37.461841695066]}
@@ -11799,13 +11372,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 111,2"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.933385820088357,41.6062894007978]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BIF. GIRONA MERC"
          },
      "geometry" : {"type":"Point","coordinates":[2.8056771245209,41.9424241072434]}
@@ -11823,13 +11389,6 @@
      	"nombre": "ALCAÑIZO"
          },
      "geometry" : {"type":"Point","coordinates":[-5.10884553728598,39.907006804422]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 146.9"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.40672613540516,36.3310567953072]}
     },
     {
      "type": "Feature",
@@ -12002,13 +11561,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 103,9"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.479970131822266,42.5474067292778]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BAÑOS DE MONTEMAYOR"
          },
      "geometry" : {"type":"Point","coordinates":[-5.85897658182239,40.3076756017843]}
@@ -12026,13 +11578,6 @@
      	"nombre": "FERNAN CABALLERO"
          },
      "geometry" : {"type":"Point","coordinates":[-3.88306668072741,39.1122410160378]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 52,205"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.67455194649168,40.067692077619]}
     },
     {
      "type": "Feature",
@@ -12068,13 +11613,6 @@
      	"nombre": "O IRIXO-A. V."
          },
      "geometry" : {"type":"Point","coordinates":[-8.10399688570524,42.5261594719504]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 209,692"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.11282267027687,38.6886510764118]}
     },
     {
      "type": "Feature",
@@ -12548,23 +12086,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 4.6"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.99121557726199,37.3550799545482]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "RIU FLUVIA"
          },
      "geometry" : {"type":"Point","coordinates":[2.97360557374975,42.131550132362]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 60.4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.11369114867766,36.8102157283494]}
     },
     {
      "type": "Feature",
@@ -12628,27 +12152,6 @@
      	"nombre": "CTT CERRO NEGRO AV"
          },
      "geometry" : {"type":"Point","coordinates":[-3.67599221910857,40.3862999117197]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "PK KM. 17,3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.01082455695478,37.7086144554852]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "PK KM. 25,8"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.95462328334719,37.6475944886929]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "PK KM. 51,8"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.867602058591,37.4377763322234]}
     },
     {
      "type": "Feature",
@@ -12814,13 +12317,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 445,0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.23787288741413,38.0316884371958]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "JIMENA DE LA FRONTERA"
          },
      "geometry" : {"type":"Point","coordinates":[-5.43427161129179,36.42429410843]}
@@ -12870,13 +12366,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "PK KM. 82,5"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.71195241827564,37.1962560028019]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "VFSL-AG.KM.1,6"
          },
      "geometry" : {"type":"Point","coordinates":[-0.346210845088957,39.4389181785534]}
@@ -12915,20 +12404,6 @@
      	"nombre": "CARPIO DE AZABA (APD)"
          },
      "geometry" : {"type":"Point","coordinates":[-6.62082132206462,40.5870208250359]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 73.2"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.55810192813889,41.5296357206301]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 543.1"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.38479567145514,43.3323308488561]}
     },
     {
      "type": "Feature",
@@ -13034,13 +12509,6 @@
      	"nombre": "OQUILLAS"
          },
      "geometry" : {"type":"Point","coordinates":[-3.6874078888151,41.8271595162314]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 210.1"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.70424043316652,41.8705127410089]}
     },
     {
      "type": "Feature",
@@ -13766,13 +13234,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 143.6"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.92767238282016,37.5466001527209]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BIF.GRAO VALENCI"
          },
      "geometry" : {"type":"Point","coordinates":[-0.341535266841445,39.4509279323288]}
@@ -14123,13 +13584,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 98.5 ( BIF. MALAGA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.85912887552437,37.2144269164843]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "GANDIA"
          },
      "geometry" : {"type":"Point","coordinates":[-0.17999881686489,38.9703153732576]}
@@ -14221,41 +13675,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 38,166"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.74046666416531,40.1758238564546]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM 143,513"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.78507784219172,37.9492898371116]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 331,573"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.67056247547967,37.9381750637989]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 673,522"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.52747591653711,41.7120203831055]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 26,5"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.20278897178827,37.36353929352]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
@@ -14291,30 +13710,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 148,045"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.49842930125001,36.702896996552]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BS TUNEL ABDALAJ"
          },
      "geometry" : {"type":"Point","coordinates":[-4.72304522128335,36.9025092356074]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 141,091"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.57054726937097,36.7181673897388]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 138,523"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.59193287734912,36.7332603141693]}
     },
     {
      "type": "Feature",
@@ -14326,86 +13724,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 2,145"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.96271472341002,37.8313692399758]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 0,804"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.95009604898825,37.8373104218472]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 69.1"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 56,4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.27833685108912,38.2939291327656]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 5,521"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 111,7"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.19500591775598,41.423258788789]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 54,215"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-8.07165600487867,42.3233606198027]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 368,859"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.05228532104192,37.8086390557637]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 469,651"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.96835698460645,37.3972363790734]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 359.9"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.6002875470267,38.4643269884132]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 6,6"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.460418589524039,42.1354137713574]}
     },
     {
      "type": "Feature",
@@ -14445,51 +13766,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 2,778"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.21987049690752,41.4216896685868]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 3,278"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.22474545229124,41.4198850852985]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BIF. SAGRERA"
          },
      "geometry" : {"type":"Point","coordinates":[2.1920242974113,41.4146306633615]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 316,883"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.56060052845869,38.0234793365358]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 344,955"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.80256284266039,37.8827765481772]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 710,137"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.7944837483056,41.9398355626223]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 246,5"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.13311969417827,39.1768655347227]}
     },
     {
      "type": "Feature",
@@ -14620,13 +13899,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "PK KM. 137,7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.88304918727652,39.2695151027381]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "MALAGON"
          },
      "geometry" : {"type":"Point","coordinates":[-3.86048859389024,39.1658213091056]}
@@ -14637,13 +13909,6 @@
      	"nombre": "BIF.CAMBIADOR ALCOLEA"
          },
      "geometry" : {"type":"Point","coordinates":[-4.69908465284423,37.9225458663977]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "PK KM. 394,4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.31337962818096,37.7331404600192]}
     },
     {
      "type": "Feature",
@@ -14781,13 +14046,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 10,572 ( MONTCADA I REIXAC-SANT JOAN )"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.18508877481157,41.4821000495614]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "MONTCADA-RIPOLLET"
          },
      "geometry" : {"type":"Point","coordinates":[2.18190650557878,41.4967573846647]}
@@ -14812,13 +14070,6 @@
      	"nombre": "PALOU (CGD)"
          },
      "geometry" : {"type":"Point","coordinates":[2.27226587995022,41.5880469500867]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 33,700 ( LLERONA )"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.29694681729602,41.6502508467547]}
     },
     {
      "type": "Feature",
@@ -14854,13 +14105,6 @@
      	"nombre": "BALENYA-TONA-SEVA"
          },
      "geometry" : {"type":"Point","coordinates":[2.24747431262125,41.8419249741135]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 63,094 ( TARADELL-MONT-RODOM )"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.25668199503636,41.8793888561467]}
     },
     {
      "type": "Feature",
@@ -14987,13 +14231,6 @@
      	"nombre": "BIF. TAMARGUILLO"
          },
      "geometry" : {"type":"Point","coordinates":[-5.95085255099418,37.4240285671075]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 18.8"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.53421718544194,37.0326870817703]}
     },
     {
      "type": "Feature",
@@ -15635,13 +14872,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 488.3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.71895876440004,42.8542963216621]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BIF. COTO DA TORRE"
          },
      "geometry" : {"type":"Point","coordinates":[-7.88251930094721,42.3560577488026]}
@@ -15890,13 +15120,6 @@
      	"nombre": "SALOMO"
          },
      "geometry" : {"type":"Point","coordinates":[1.37658199454505,41.2234593656802]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 61.9"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.24060923177252,37.8396798402539]}
     },
     {
      "type": "Feature",
@@ -16398,27 +15621,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 272.6"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.726688094402,42.2861643910309]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 172,603"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.75487074905416,41.5869874210184]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 146,6"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.21456320789455,36.4586583480875]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "VALENCIA-PUERTO NORTE"
          },
      "geometry" : {"type":"Point","coordinates":[-0.334893561280169,39.4381799549804]}
@@ -16454,62 +15656,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 7/300"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.76796601473804,41.9421804184452]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 396,555"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.381674080005001,39.4534772943498]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 395,291"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.387288393446991,39.4425357117142]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 395,179"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.388327274256756,39.4420878450737]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 346,228"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.81469472349593,37.87760745994]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 462,069"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.95842616439755,37.4578504309942]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM.345,7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.16184494503548,38.8755744241903]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 413.6"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.38666515566872,38.23755882123]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-5.04186290556241,42.3955155236812]}
@@ -16541,132 +15687,6 @@
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-3.3221955525983,37.9183047184062]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 395,081"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.389462060825642,39.4418104812751]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 394,360"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.3973704039926,39.4432621393681]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 393,656"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.405363481124856,39.4447254215107]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 392,087"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.42399927858616,39.4469847326902]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 391,323"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.432963769086119,39.4488898704065]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 389,958"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.44795266612646,39.4499045351419]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 383,737"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.519503447726258,39.4486540441576]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 303,870"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.40298264584608,39.5422298820288]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 298,526"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.46454767139426,39.5479221142989]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 295,909"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.49429959545993,39.5515535059423]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 293,655"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.51842053401044,39.5459575600397]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 290,083"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.55207125649653,39.5273006730313]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 284,123"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.61766575036568,39.5123073443421]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 79,728"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.43362981567527,39.9443992722927]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 77,354"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.46019538629331,39.9417675710496]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 63,147"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.60358819127831,39.9943229687509]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 56,664"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.66068852165618,40.029459001375]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 51,492"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.67569348149897,40.0742672034519]}
     },
     {
      "type": "Feature",
@@ -16730,13 +15750,6 @@
      	"nombre": "LOS RAMOS-ALQUERIAS"
          },
      "geometry" : {"type":"Point","coordinates":[-1.02907918209374,37.9980717922002]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 479,1"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.946050833352031,37.965386636324]}
     },
     {
      "type": "Feature",
@@ -18057,27 +17070,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 4,275"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.68102582004255,40.3752093811938]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 654,424"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.34575505581549,41.6078094735441]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 4,485"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.95843797073037,39.8705899660628]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
@@ -18442,13 +17434,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 127.6"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.66957959010863,40.7025494156479]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "CANTERA DE MINGORRIA"
          },
      "geometry" : {"type":"Point","coordinates":[-4.67181799312,40.73394040949]}
@@ -18743,30 +17728,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 208,771"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.10763992564078,38.6954995460192]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "PT. LLEIDA NORTE"
          },
      "geometry" : {"type":"Point","coordinates":[0.655256569364736,41.5933079891945]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 124,4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.61932663382645,40.9392840182697]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 85,340"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
     },
     {
      "type": "Feature",
@@ -18806,48 +17770,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 1,050"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.68019870160809,40.4006970024499]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 206,812"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.09385721007502,38.7104010166456]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 103.386"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.81895355098778,39.5625186390939]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 212,631"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.14130726531737,38.6793759672258]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 465,483"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.95264482351644,37.4293526555268]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 378.3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.66092955721578,38.3195680939076]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-7.45585007682922,42.8943516834406]}
@@ -18872,69 +17794,6 @@
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-3.42154243291519,37.9101089603869]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 178,067"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.9498116139805,38.9318680055395]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 173,058"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.91171016391754,38.9647098423423]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 170,189"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.91570641129367,38.9892170152985]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 20,350"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.71759620123547,40.2702725150387]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 13,073"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.65800616685272,40.3063488430428]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 5,656"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.6762299028919,40.363821490471]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 335,196"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.70432968129413,37.9208232484352]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 177,0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.58192747361713,36.7225236237763]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 318,1"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.4747309431618,38.9102277495195]}
     },
     {
      "type": "Feature",
@@ -18981,20 +17840,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 4,441"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.68088528714722,40.3747333617162]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 1,473"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.67599557524244,40.3982808494179]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "VIADUCTO KM. 289"
          },
      "geometry" : {"type":"Point","coordinates":[-6.20334717394641,39.8803253682096]}
@@ -19002,51 +17847,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM 387,0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.47987486837287,42.9188506417295]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 006,2"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.47066156473229,43.1698788830557]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM 383,3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.48500107917836,42.9297852388877]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 13,3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.63282279896682,42.379955160411]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 26,8"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.78393700226978,40.6448580229634]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "CRUCE F. C. FEVE"
          },
      "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 1,4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.50106875494706,41.9807499209845]}
     },
     {
      "type": "Feature",
@@ -19068,41 +17871,6 @@
      	"nombre": "CAMBIO TENSION"
          },
      "geometry" : {"type":"Point","coordinates":[-7.91071530695047,42.3597415759065]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 84,163"
-         },
-     "geometry" : {"type":"Point","coordinates":[-8.52444685755043,42.8585911280345]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 6,094"
-         },
-     "geometry" : {"type":"Point","coordinates":[-7.94068202310734,42.3686802999498]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 2,903"
-         },
-     "geometry" : {"type":"Point","coordinates":[-7.9046958583462,42.3589844237395]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 11,290"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.62563095299284,40.3364722556532]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 680,242"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.60169744203182,41.7357393089434]}
     },
     {
      "type": "Feature",
@@ -19149,13 +17917,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 178,061"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.7353699875473,41.6342171975863]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "B.N.GUADARRAMA"
          },
      "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
@@ -19170,30 +17931,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 32,565"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.73599860381973,40.7444137688292]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "LIMITE ADIF - TP FERRO"
          },
      "geometry" : {"type":"Point","coordinates":[2.93279023870356,42.2882129510588]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 82.1"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 19.2"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.32378488135927,38.5615968533254]}
     },
     {
      "type": "Feature",
@@ -20458,13 +19198,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 41,3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.58601080399297,38.1845097635256]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-3.50320973467953,38.2500128838074]}
@@ -20475,27 +19208,6 @@
      	"nombre": "C.TUNIS AG K18,3"
          },
      "geometry" : {"type":"Point","coordinates":[2.06395594003003,41.3482590877664]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 115.081"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.82279134264311,39.459073828162]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 468,657"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.96102680168995,37.4037897567526]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 50,0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.56674388307722,41.9917498086287]}
     },
     {
      "type": "Feature",
@@ -20524,34 +19236,6 @@
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-5.26914130682284,38.7022909497944]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 344,314"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.79558383432888,37.8859458199502]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 363,569"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.99819946691164,37.8181171290541]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 190.5"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.75465500924961,39.2816171052684]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 350.7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.6550682283369,38.5134291129909]}
     },
     {
      "type": "Feature",
@@ -20598,20 +19282,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 645,463"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.2662160714723,41.555479183983]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 707,387"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.78255800179721,41.9181208682178]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-5.35345758530389,38.3878298714268]}
@@ -20654,20 +19324,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 286,247"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.56835380028754,38.2459921150083]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 12,760"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.4626546012525,41.3325786721386]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-8.60256784577677,42.2005540841366]}
@@ -20699,34 +19355,6 @@
      	"nombre": "BIF.RAMAL PUERTO"
          },
      "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 111.972"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.83074744917724,39.4856437526622]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 465,922"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.95091140000413,37.4260983409729]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 320.7"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.68270888764476,38.7197343233973]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 77,427"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.19044308926955,41.3771526527588]}
     },
     {
      "type": "Feature",
@@ -20769,34 +19397,6 @@
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-3.19050902587013,37.6894771143979]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 99.337"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.80094664538006,39.5964265799379]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 343,131"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.78379941326455,37.8914281044629]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 683,987"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.64105050081578,41.7499697487174]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 139.0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.44370377315866,36.3900343808672]}
     },
     {
      "type": "Feature",
@@ -21032,20 +19632,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 0,4"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.68013313716557,40.4763206116141]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 152,1"
-         },
-     "geometry" : {"type":"Point","coordinates":[0.405482049971795,41.76196879569]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "BENALM-AG-KM19,0"
          },
      "geometry" : {"type":"Point","coordinates":[-4.53074267652046,36.6007986387432]}
@@ -21067,23 +19653,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 75.3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-2.99999999999999,-90]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "FAXIL-AG.K36.095"
          },
      "geometry" : {"type":"Point","coordinates":[-8.64701875839206,42.5302875678555]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 4,8"
-         },
-     "geometry" : {"type":"Point","coordinates":[-5.76682529814468,37.1965659731027]}
     },
     {
      "type": "Feature",
@@ -21102,65 +19674,9 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM. 21,048"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.72167069984502,40.6442091968321]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 14,623"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.7130388857646,40.5889082819073]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 12,428"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.71298825443699,40.5700596997258]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 8,254"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.69995846595996,40.5363951206926]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "T M RIO ADAJA"
          },
      "geometry" : {"type":"Point","coordinates":[-4.74317568900749,41.2994417671507]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 18,1"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.69612767466271,37.3879020878894]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 210,945"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.12279548447427,38.6833649837738]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 229.3"
-         },
-     "geometry" : {"type":"Point","coordinates":[-4.32564836853679,38.6667153182306]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 20,0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-0.799029236821193,41.8100026034148]}
     },
     {
      "type": "Feature",
@@ -21189,62 +19705,6 @@
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-5.61724811742974,38.8055581575209]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 119.5"
-         },
-     "geometry" : {"type":"Point","coordinates":[-3.63859920047547,37.1925353749516]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 618,069"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.11668973544197,41.3651558421317]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 614,997"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.11320144903348,41.3393790110881]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 607,225"
-         },
-     "geometry" : {"type":"Point","coordinates":[2.04945478229866,41.35669224637]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 591,865"
-         },
-     "geometry" : {"type":"Point","coordinates":[1.96354616611844,41.4758448891759]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 583,639"
-         },
-     "geometry" : {"type":"Point","coordinates":[1.87086565383297,41.4700071212842]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 320,174"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.85383162955724,39.0065852904671]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM. 316,566"
-         },
-     "geometry" : {"type":"Point","coordinates":[-1.88200122033885,39.0297090409089]}
     },
     {
      "type": "Feature",
@@ -21655,13 +20115,6 @@
     {
      "type": "Feature",
      "properties": {
-     	"nombre": "KM.2,0"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.36435598846395,38.9177992453962]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
      	"nombre": "MZAMBRANO-AGK0,7"
          },
      "geometry" : {"type":"Point","coordinates":[-4.43918848962159,36.7082248430841]}
@@ -21686,13 +20139,6 @@
      	"nombre": "C. DE R."
          },
      "geometry" : {"type":"Point","coordinates":[-7.0313156896117,39.3960830375735]}
-    },
-    {
-     "type": "Feature",
-     "properties": {
-     	"nombre": "KM 32.135"
-         },
-     "geometry" : {"type":"Point","coordinates":[-6.37568553890656,39.1947060577677]}
     },
     {
      "type": "Feature",
@@ -21826,6 +20272,6 @@
      	"nombre": "ALICANTE TÉRMINO"
          },
      "geometry" : {"type":"Point","coordinates":[-0.495519555087555,38.34459336731]}
-    }
+    },
   ]
 }
